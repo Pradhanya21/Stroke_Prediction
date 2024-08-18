@@ -1,4 +1,4 @@
-# 🧠 Brainstroke Prediction
+ # 🧠 Brainstroke Prediction
 
 [![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
